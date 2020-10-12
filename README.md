@@ -1,3 +1,1 @@
-# test
-联系git的使用
-addinfo
+远程行1
